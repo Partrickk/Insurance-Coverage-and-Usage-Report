@@ -18,7 +18,8 @@ ________________________________________
 3.	Healthcare Utilization: Insured individuals visit hospitals more frequently (average interval: 6 months) compared to the uninsured (7 months).
 4.	Key Metrics: Proportion of insured individuals, socioeconomic impact on coverage, and healthcare utilisation trends.
 Dashboard: Insurance Coverage And Usage Analysis
-	 
+	 ![image](https://github.com/user-attachments/assets/7acfde87-319a-400d-93af-cc0f49222b7f)
+
 
 4.	Data Structure Overview
 ________________________________________
@@ -27,27 +28,31 @@ The dataset consists of 6,158 records and includes variables providing insights 
 •	Socioeconomic Status: Employment status and income levels as determinants of insurance coverage.
 •	Healthcare Usage: Frequency of hospital visits and routine checkups as indicators of access and utilisation.
 Healthcare Data Relationship
-				 
+		![image](https://github.com/user-attachments/assets/f2f74620-4bb3-4469-b425-e5f2ce8aeef8)
+		 
 
 5.	Key Insights
 ________________________________________
 Insight 1: Demographic Disparities in Health Insurance Coverage
 Insurance Coverage by Demographics
- 
+ ![image](https://github.com/user-attachments/assets/62d50c84-8653-4110-9de5-f0e18b53b698)
+
 •	Key Metric: 59% insured, with coverage rates varying by employment and income levels.
 •	Implication: Vulnerable groups (unemployed, low-income) exhibit lower coverage, indicating a gap in accessibility.
 
 Insight 2: Socioeconomic Impact on Insurance Access
 Coverage by Employment and Income
  
- 
+   ![image](https://github.com/user-attachments/assets/b5805630-4233-447c-b015-c6cefba859a4)
+
+   ![image](https://github.com/user-attachments/assets/8839970f-3c32-444e-99d0-4681e9048201)
 
 •	Key Metric: Income correlates strongly with insurance rates (90% for high-income vs. 35% for low-income).
 •	Implication: Subsidised health programs could address disparities among low-income groups.
 
 Insight 3: Healthcare Utilization by Insurance Status
 Hospital Visit Frequency by Insurance Status
-		 
+		 ![image](https://github.com/user-attachments/assets/aed85190-8586-4b49-abe9-53e3cde3f506)
 
 •	Key Metric: Insured individuals have shorter intervals between hospital visits (6 months vs. 7 months).
 •	Implication: Insurance improves healthcare access and usage.
