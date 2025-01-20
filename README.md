@@ -69,9 +69,12 @@ o	Expand community-driven health programs to provide basic healthcare for uninsu
 o	Launch public campaigns emphasising the benefits of health insurance, particularly in underserved regions.
 ## 5.	Communication
 ________________________________________
-•	To Policymakers: Highlight the disparities in insurance coverage and recommend targeted subsidies for low-income populations.
-•	To Employers: Emphasise the role of employer-sponsored insurance in improving coverage rates.
-•	To Community Organizations: Advocate for localised initiatives that enhance healthcare access for the uninsured.
+•	To Policymakers: 
+Highlight the disparities in insurance coverage and recommend targeted subsidies for low-income populations.
+•	To Employers:
+Emphasise the role of employer-sponsored insurance in improving coverage rates.
+•	To Community Organizations:
+Advocate for localised initiatives that enhance healthcare access for the uninsured.
 ## 7.	Caveats and Assumptions
 ________________________________________
 1.	Data Limitations:
