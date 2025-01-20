@@ -28,7 +28,8 @@ The dataset consists of 6,158 records and includes variables providing insights 
 •	Socioeconomic Status: Employment status and income levels as determinants of insurance coverage.
 •	Healthcare Usage: Frequency of hospital visits and routine checkups as indicators of access and utilisation.
 Healthcare Data Relationship
-![image](https://github.com/user-attachments/assets/f2f74620-4bb3-4469-b425-e5f2ce8aeef8)
+
+![image](https://github.com/user-attachments/assets/93cdf492-e3a5-4f0f-8394-81b3ae04c10a)
 		 
 
 5.	Key Insights
